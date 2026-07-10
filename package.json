@@ -1,0 +1,27 @@
+{
+  "name": "anup-tiwari-portfolio",
+  "version": "1.0.0",
+  "description": "Professional portfolio website for Anup Tiwari - DevOps Engineer | Cloud Solutions Architect",
+  "author": "Anup Tiwari",
+  "email": "anuptiwari2709@gmail.com",
+  "github": "https://github.com/Anup-Tiwari2709",
+  "linkedin": "https://linkedin.com/in/anup-tiwari-246873219",
+  "license": "MIT",
+  "keywords": [
+    "portfolio",
+    "devops",
+    "cloud",
+    "aws",
+    "kubernetes",
+    "terraform",
+    "ci-cd"
+  ],
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Anup-Tiwari2709/Anup_Portfolio"
+  }
+}
